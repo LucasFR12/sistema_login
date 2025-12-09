@@ -7,6 +7,3 @@ class Usuario(Base): # Modelo de usuário
     nome = Column(String(100))
     email = Column(String(100))
     senha = Column(String(200))
-
-
-#Base.metadata.create_all(engine) # Cria as tabelas no banco de dados
