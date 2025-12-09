@@ -18,5 +18,4 @@ Projeto **simples e educacional**, desenvolvido em Python para fins de estudo.
 - Login com autenticação
 - Visualização de perfil
 - Troca de senha
-- Validação de dados de entrada
-- Banco de dados local SQLite
+- Visualização de perfil
